@@ -1,0 +1,8 @@
+{
+  "name": " Booost",
+  "description": "All-in-one hub for loyalty rewards, franchise menus, fitness tracking, and healthy habit building.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
